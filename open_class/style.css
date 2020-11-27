@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #bce6eb;
+    background-image: url(https://i.pinimg.com/originals/70/c9/a6/70c9a61befefa5a89628100975f35250.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+}
+img{
+width: 650px;
+display: block;
+margin: 0 auto;
+}
+p, h1{
+    color: #fd8c04
+}
+.end{
+    font-size: 50px;
+}
